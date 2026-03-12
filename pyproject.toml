@@ -1,0 +1,10 @@
+[project]
+name = "curso-python-basico"
+version = "0.1.0"
+description = "Curso de Python Básico"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = []
